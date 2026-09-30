@@ -1,0 +1,47 @@
+[
+  {
+    "gtin": "08901234567890",
+    "medicine_name": "Amoxicillin",
+    "strength": "500mg",
+    "form": "Capsule",
+    "manufacturer": "PharmaCorp Ltd",
+    "standard_batches": ["AMX2026B1", "AMX2026B2"],
+    "expiry_date": "2027-01-10"
+  },
+  {
+    "gtin": "08909876543210",
+    "medicine_name": "Paracetamol",
+    "strength": "650mg",
+    "form": "Tablet",
+    "manufacturer": "HealthCare Plus",
+    "standard_batches": ["PCM2026A1"],
+    "expiry_date": "2026-12-31"
+  },
+  {
+    "gtin": "08905555444333",
+    "medicine_name": "Metformin",
+    "strength": "500mg",
+    "form": "Tablet",
+    "manufacturer": "BioMed Solutions",
+    "standard_batches": ["MET2025C3"],
+    "expiry_date": "2026-11-15"
+  },
+  {
+    "gtin": "08901111222333",
+    "medicine_name": "Azithromycin",
+    "strength": "250mg",
+    "form": "Tablet",
+    "manufacturer": "Global Pharma",
+    "standard_batches": ["AZT2026D1"],
+    "expiry_date": "2027-06-30"
+  },
+  {
+    "gtin": "08907777888999",
+    "medicine_name": "Ibuprofen",
+    "strength": "400mg",
+    "form": "Tablet",
+    "manufacturer": "MedLife Inc",
+    "standard_batches": ["IBU2025E2"],
+    "expiry_date": "2026-08-20"
+  }
+]

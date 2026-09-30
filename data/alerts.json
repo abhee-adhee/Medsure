@@ -1,0 +1,20 @@
+[
+  {
+    "id": "alert_001",
+    "medicine_name": "Amoxicillin",
+    "batch_number": "AMX2026BAD",
+    "expiry_date": "2027-01-10",
+    "risk_level": "high_suspicion",
+    "description": "Substandard formulation reported by drug control authority.",
+    "issued_at": "2026-08-01T00:00:00Z"
+  },
+  {
+    "id": "alert_002",
+    "medicine_name": "Paracetamol",
+    "batch_number": "PCM2026FAKE",
+    "expiry_date": "2026-12-31",
+    "risk_level": "high_suspicion",
+    "description": "Counterfeit batch with misprinted barcode circulating in Eastern district.",
+    "issued_at": "2026-09-15T00:00:00Z"
+  }
+]
